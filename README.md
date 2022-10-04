@@ -1,7 +1,21 @@
-# Microsoft Teams Message Deleter Script
+<h1 id="title" align="center">Microsoft Teams Message Deleter Script</h1>
 
-This script main goal is providing an easy and direct way to mass delete your messages in the Microsoft Teams application.
-The main function in this script is allowing an easy and automate way to mass delete messages on the application Microsoft Teams.
+<p id="description">Want to mass delete your messages in the Teams application? This script got you covered.</p>
 
-I'm not 100% sure about the scroll function on it, you can check it and submit any improvements if you feel so, i'll be really greatful.
+<h2>🛠️ Installation Steps:</h2>
 
+```
+1 - Access the Teams Web application  
+```
+
+```
+2 - Open your browser devtools.
+```
+
+```
+3 - Enter the "console" tab.
+```
+
+```
+4 - Paste the code and press enter.
+```
