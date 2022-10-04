@@ -1,4 +1,6 @@
-document.body.style.zoom = 0.8
+function fullscreen() {
+    document.body.style.zoom = "80%";
+}
 
 (function() {
 	var JQ = jQuery("iframe").contents();
