@@ -2,7 +2,7 @@
 
 <p id="description">Want to mass delete your messages in the Teams application? This script got you covered.</p>
 
-<h2>🛠️ Installation Steps:</h2>
+<h2>Instructions: </h2>
 
 ```
 1 - Access the Teams Web application  
