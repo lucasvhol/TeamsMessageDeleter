@@ -1,4 +1,5 @@
 document.body.style.zoom = 0.8
+
 (function() {
 	var JQ = jQuery("iframe").contents();
 	var queue = [];
