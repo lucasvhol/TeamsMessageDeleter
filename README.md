@@ -1,9 +1,8 @@
 <h1 id="title" align="center">Microsoft Teams Message Deleter Script</h1>
 
-<p id="description">Want to mass delete your messages in the Teams application? This script got you covered.</p>
+   <p id="description">Want to mass delete your messages in the Teams application? This script got you covered.</p>
 
-<h2>🧐 Recommendation:/h2>
-*   Due to some bugs regarding the page itself I recommend zooming out the page I bit it make's the process way more stable!
+   *   Due to some bugs regarding the page itself I recommend zooming out the page I bit. It make's the process way more stable!
 
 <h2>Instructions: </h2>
 
@@ -21,8 +20,4 @@
 
 ```
 4 - Paste the code and press enter.
-```
-
-
-
 ```
