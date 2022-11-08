@@ -1,6 +1,3 @@
-document.body.style.zoom = "80%";
-
-
 (function() {
 	var JQ = jQuery("iframe").contents();
 	var queue = [];
@@ -40,7 +37,7 @@ document.body.style.zoom = "80%";
 
 			$(item).css({'outline': '5px solid #cc0'});
 			console.log("Delete ID " + $(item).attr("data-mid"));
-			mouse('contextmenu', $(item).find(".ui-chat__message__content>div")[0]);
+			mouse('contextmenu', $(item).find(".ui-chat__messagecontent>div")[0]);
 			setTimeout(function() {
 				var delete_button = JQ.find("[data-tid=message-actions-delete]")[0];
 				if(delete_button) {
