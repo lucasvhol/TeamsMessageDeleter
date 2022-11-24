@@ -7,7 +7,7 @@
 <h2>Instructions: </h2>
 
 ```
-1 - Access the Teams Web application  
+1 - Access the Teams Web application, open up the conversation you wish to exclude messages from.
 ```
 
 ```
