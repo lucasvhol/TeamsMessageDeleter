@@ -1,8 +1,8 @@
 <h1 id="title" align="center">Microsoft Teams Message Deleter Script</h1>
 
-   <p id="description">Want to mass delete your messages in the Teams application? This script got you covered.</p>
+   <p id="description">I made this little script in order to mass delete a batch of messages in the Microsoft Teams application.</p>
 
-   *   Due to some bugs regarding the page itself I recommend zooming out the page I bit. It make's the process way more stable!
+   *   It currently only works on the web version of the app.
 
 <h2>Instructions: </h2>
 
