@@ -54,10 +54,10 @@
 			loading = true;
 		}
 		
-		if(last_processed < (new Date()).getTime() - 15000) {
-			// if no new messages are coming up for 15s, consider it finished
+		if(last_processed < (new Date()).getTime() - 30000) {
+			// if no new messages are coming up for 30s, consider it finished
 			clearInterval(repeat);
-			console.log("Finished, nothing new has come up for 15 seconds.");
+			console.log("Finished, nothing new has come up for 30 seconds.");
 		}
 	
 	}, 1000);
