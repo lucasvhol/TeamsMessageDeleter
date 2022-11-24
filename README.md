@@ -2,7 +2,7 @@
 
    <p id="description">I made this little script in order to mass delete a batch of messages in the Microsoft Teams application.</p>
 
-   *   It currently only works on the web version of the app.
+                            *   It currently only works on the web version of the app.
 
 <h2>Instructions: </h2>
 
