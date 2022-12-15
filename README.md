@@ -33,5 +33,7 @@ Run the script.
 Wait until it the confirmation that no messages are left.
 
 
-In case some messages are still appearing, try refreshing the page to see if it's a cache related problem or just a visual bug, if necessary you may need to run the script more than once.
+In case some messages are still appearing, 
+try refreshing the page to see if it's a cache related problem or just a visual bug, 
+if necessary you may need to run the script more than once.
 ```
