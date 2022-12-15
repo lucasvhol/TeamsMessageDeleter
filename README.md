@@ -1,23 +1,17 @@
-<h1 id="title" align="center">Microsoft Teams Message Deleter Script</h1>
+<h1 id="title">Microsoft Teams Message Deleter</h1>
 
-   <p id="description">I made this little script in order to mass delete a batch of messages in the Microsoft Teams application.</p>
+<p id="description">The purpose of this script is creating an easy and direct method of mass erasing your messages on the Microsoft Teams app.
 
-                            *   It currently only works on the web version of the app *
+And be aware: this script only works on the web version of the Teams app. It does not work on desktop, Windows Store or mobile. </p>
 
-<h2>Instructions: </h2>
+## Features
 
-```
-1 - Access the Teams Web application, open up the conversation you wish to exclude messages from.
-```
+- Extremely accurate prediction of the messages.
+- Works in any browser.
 
-```
-2 - Open your browser devtools.
-```
+## FAQ
 
-```
-3 - Enter the "console" tab.
-```
-
-```
-4 - Paste the code and press enter.
-```
+#### Does this delete all messages in the chat?
+No, it only deletes your messages, the other users messages will still be visible unless he also runs the script.
+#### Can companies still see my messages after the script is loaded?
+Yes, [they actually can](https://learn.microsoft.com/en-us/microsoftteams/ediscovery-investigation), it all dependends on how they use some functions of the Office Apps in the organization, so I really recommend not chatting anything problematic on Teams.
