@@ -18,7 +18,6 @@ This script provides a simple and efficient way to delete your messages in a Mic
 3. Open the browser console by pressing F12 (or Ctrl+Shift+J in Chrome, or Ctrl+Shift+K in Edge).
 4. Copy the script from the `message-deleter.js` file in this repository.
 5. Paste the script into the console and press Enter to run it.
-6. A confirmation prompt will appear. Click "OK" to proceed with message deletion.
 
 ## Important considerations
 
