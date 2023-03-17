@@ -1,9 +1,4 @@
 (function() {
-  if (!confirm("This will delete your messages in the current Microsoft Teams chat. Are you sure you want to continue?")) {
-    return;
-  }
-
-  (function() {
   var JQ = jQuery("iframe").contents();
   var queue = [];
   var last_processed = (new Date()).getTime();
