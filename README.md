@@ -41,6 +41,10 @@ The code uses jQuery to interact with the DOM and identify your messages. It the
 - It does not work with the Microsoft Teams desktop application.
 - The script might not work as intended if the web app structure changes or if there are modifications to the DOM elements.
 
+## Disclaimer
+
+This script is provided for educational purposes only. Use it at your own risk. The author is not responsible for any consequences resulting from the use of this code. Always follow your organization's policies and guidelines regarding the usage of Microsoft Teams and message deletion.
+
 ## Contributing
 
 If you have any suggestions for improvements or would like to report any issues, please open an issue on this repository. Contributions are welcome!
