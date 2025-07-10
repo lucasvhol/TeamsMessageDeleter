@@ -1,4 +1,4 @@
-# Microsoft Teams Message Deletion Script
+# Microsoft Teams Message Deleter
 
 ## Disclaimer
 
