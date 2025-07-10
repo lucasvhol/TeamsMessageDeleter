@@ -6,7 +6,7 @@ The refactoring addresses changes in the underlying HTML structure and CSS selec
 
 ## Disclaimer
 
-This is an unofficial script and is not supported by Microsoft. It directly interacts with the Teams web client's Document Object Model (DOM). UI changes made by Microsoft may break this script at any time. Use this script at your own risk. The author is not responsible for any unintended consequences, such as accidental data loss or issues with your Microsoft account. It is recommended to review the code before execution.
+This is an unofficial script and is not supported by Microsoft. It directly interacts with the Teams web client's Document Object Model (DOM). UI changes made by Microsoft may break this script at any time. Use this script at your own risk. **I'm not responsible for any unintended consequences, such as accidental data loss or issues with your Microsoft account.** It is recommended to review the code before execution.
 
 ## Overview
 
