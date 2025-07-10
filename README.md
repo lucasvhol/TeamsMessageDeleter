@@ -1,5 +1,9 @@
 # Microsoft Teams Message Deleter
 
+## Version Compatibility Notice (10/07/2025)
+This script was significantly updated on 10/07/2025 to ensure compatibility with the new Microsoft Teams (v2) client.
+The refactoring addresses changes in the underlying HTML structure and CSS selectors introduced in the new Teams interface. Please ensure you are using this script with the appropriate version of the Teams web application. This version is intended for the new Teams v2 and may not function correctly on the "classic" Teams client.
+
 ## Disclaimer
 
 This is an unofficial script and is not supported by Microsoft. It directly interacts with the Teams web client's Document Object Model (DOM). UI changes made by Microsoft may break this script at any time. Use this script at your own risk. The author is not responsible for any unintended consequences, such as accidental data loss or issues with your Microsoft account. It is recommended to review the code before execution.
